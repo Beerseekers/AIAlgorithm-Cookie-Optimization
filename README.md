@@ -1,2 +1,2 @@
 # AIAlgorithm-Cookie-Optimization
-A project done during the first semester of 2024-2025 for my AI Algorithm class.
+A project done during the first semester of 2024-2025 for my AI Algorithm class. Work done by Thomas Daniel, Théo Chichery and me (Jean Marchegay). The aim was to solve an optimization problem using different methods presented to us during classes. We implemented a wide variety of methods ranging from search algorithms to genetic approaches and dynamic programming.
